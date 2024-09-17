@@ -1,0 +1,10 @@
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\bin\Debug\MTPEOJECT.exe.config
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\bin\Debug\MTPEOJECT.exe
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\bin\Debug\MTPEOJECT.pdb
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.csproj.AssemblyReference.cache
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.Form1.resources
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.Properties.Resources.resources
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.csproj.GenerateResource.cache
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.csproj.CoreCompileInputs.cache
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.exe
+C:\Users\masud\OneDrive\Desktop\C# lab project\MTPEOJECT\MTPEOJECT\obj\Debug\MTPEOJECT.pdb
